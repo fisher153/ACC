@@ -1,0 +1,154 @@
+{
+  "main": {
+    "id": "1da1f53041f209cb",
+    "type": "split",
+    "children": [
+      {
+        "id": "ce66396226971f7f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c62947abad0c9474",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "제텔카스텐.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "67d24c87e0856229",
+    "type": "split",
+    "children": [
+      {
+        "id": "95f8e41a0fe1468e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f9ef2172a67639cc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f13f1ade99f201dc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "bc911944a6807fb7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "8959807907f51e82",
+    "type": "split",
+    "children": [
+      {
+        "id": "c194349a95cc46db",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ea77ed5a8b75916b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "제텔카스텐.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "79f4a65252a167a5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "제텔카스텐.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "64bde0f8cd3fe947",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "38864299118a9b7e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "제텔카스텐.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
+    }
+  },
+  "active": "c62947abad0c9474",
+  "lastOpenFiles": [
+    "README.md",
+    "제텔카스텐.md"
+  ]
+}
